@@ -1,8 +1,8 @@
-.resorses__link {
+.resources__link {
   margin: 0;
 }
 
-.resorses__link:hover {
+.resources__link:hover {
   opacity: .5;
   transition: .6s;
 }
